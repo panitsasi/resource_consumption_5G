@@ -1,0 +1,1 @@
+# resource_consumption_5G
